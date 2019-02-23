@@ -26,3 +26,8 @@ Please feel free to leave your comments and in case you want to modify and adapt
 Cheers :beer:
 
 dzalf :sunglasses:
+
+
+**#TODO**
+
+1. Upload examples of the applicability of this boards (pictures)
