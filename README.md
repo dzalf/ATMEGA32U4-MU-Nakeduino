@@ -19,6 +19,7 @@ In addition, with this board you will have access to all of those pins not route
 The pinout is based on the schematic symbol from KiCAD, as follows :eyes:
 
 ![alt txt](https://github.com/dzalf/ATMEGA32U4-MU-Nakeduino/blob/master/ATMEGA32U4-MU%20Nakeduino-schematic.png)
+![alt txt](https://github.com/dzalf/ATMEGA32U4-MU-Nakeduino/blob/master/ATMEGA32U4-MU%20Nakeduino.png)
 
 Please feel free to leave your comments and in case you want to modify and adapt the board to your needs fork the repo and don't forget to give me some credit for it :pray:
 
