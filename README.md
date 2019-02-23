@@ -21,6 +21,11 @@ In addition, with this board you will have access to all of those pins that are 
 The pinout is based on the schematic symbol from [KiCAD](http://kicad-pcb.org/), as follows :eyes:
 
 ![alt txt](https://github.com/dzalf/ATMEGA32U4-MU-Nakeduino/blob/master/ATMEGA32U4-MU%20Nakeduino-schematic.png)
+
+
+And the pinout is arranged in a way that makes sense since all of the support pins are concentrated on one side leaving your total acess to the functional pins on the rest of the board. The silkscreen CLEARLY shows the pin correspondence...
+
+
 ![alt txt](https://github.com/dzalf/ATMEGA32U4-MU-Nakeduino/blob/master/ATMEGA32U4-MU%20Nakeduino.png)
 
 Happy prototyping!
