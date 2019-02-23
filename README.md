@@ -3,7 +3,7 @@ A standalone breakout board for the Arduino Leonardo or [Pro Micro](https://shop
 
 **WELCOME EVERYONE!** :wave:
 
-This is the repository for the Nakeduino Leonardo/Pro Micro based on the [ATMEGA32U4-MU](http://ww1.microchip.com/downloads/en/devicedoc/atmel-7766-8-bit-avr-atmega16u4-32u4_datasheet.pdf).
+This is the repository for the Nakeduino Leonardo/Pro Micro based on the [ATMEGA32U4-MU](http://ww1.microchip.com/downloads/en/devicedoc/atmel-7766-8-bit-avr-atmega16u4-32u4_datasheet.pdf) that I've been selling online (link to be added soon!)
 
 It is a breakout board designed for those who are looking for a solution for prototyping standalone Arduinos. With this bare board you will have full control of your design before implementing your own standalone Arduino in your projects.
 
@@ -23,7 +23,7 @@ The pinout is based on the schematic symbol from [KiCAD](http://kicad-pcb.org/),
 ![alt txt](https://github.com/dzalf/ATMEGA32U4-MU-Nakeduino/blob/master/ATMEGA32U4-MU%20Nakeduino-schematic.png)
 ![alt txt](https://github.com/dzalf/ATMEGA32U4-MU-Nakeduino/blob/master/ATMEGA32U4-MU%20Nakeduino.png)
 
-Please feel free to leave your comments and in case you want to modify and adapt the board to your needs fork the repo and don't forget to give me some credit for it :pray:
+Happy prototyping!
 
 Cheers :beer:
 
