@@ -1,9 +1,9 @@
 # ATMEGA32U4-MU-Nakeduino
-A standalone breakout board version of the Arduino Leonardo or Pro Micro
+A standalone breakout board for the Arduino Leonardo or [Pro Micro](https://shop.pimoroni.com/products/pro-micro-5v-16mhz?variant=7487693313&gclid=Cj0KCQiA-8PjBRCWARIsADc18TK3GjFquPD7BkRoYZJYw_GjSvD04rzGwPerEhrzXqwTqM_zomNSwFMaAuS2EALw_wcB)
 
 **WELCOME EVERYONE!** :wave:
 
-This is the repository for the Nakeduino Leonardo/Pro Micro based on the ATMEGA32U4-MU.
+This is the repository for the Nakeduino Leonardo/Pro Micro based on the [ATMEGA32U4-MU](http://ww1.microchip.com/downloads/en/devicedoc/atmel-7766-8-bit-avr-atmega16u4-32u4_datasheet.pdf).
 
 It is a breakout board designed for those who are looking for a solution for prototyping standalone Arduinos. With this bare board you will have full control of your design previous implementing your own standalone arduino in your projects.
 
