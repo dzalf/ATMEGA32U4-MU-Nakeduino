@@ -18,7 +18,7 @@ f. ....many other advantages
 
 In addition, with this board you will have access to all of those pins that are not routed on those micro boards like the Pro Micro. For example: in D17 is assigned only to the Rx LED and perhaps your project needs to use CS from the SPI Port being that D17 also corresponds to that pin.
 
-The pinout is based on the schematic symbol from [KiCAD](http://kicad-pcb.org/), as follows :eyes:
+The pinout is based on the schematic symbol from [KiCAD](http://kicad.org/), as follows :eyes:
 
 ![alt txt](https://github.com/dzalf/ATMEGA32U4-MU-Nakeduino/blob/master/ATMEGA32U4-MU%20Nakeduino-schematic.png)
 
