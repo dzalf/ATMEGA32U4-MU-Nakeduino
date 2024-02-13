@@ -7,16 +7,16 @@ This is the repository for the Nakeduino Leonardo/Pro Micro based on the [ATMEGA
 
 It is a breakout board designed for those who are looking for a solution for prototyping standalone Arduinos. With this bare board you will have full control of your design before implementing your own standalone Arduino in your projects.
 
-I believe it is important  when designing embedded systems because usually designers/hobbysts (including myself) take for granted many details regarding the functional sections of the Arduino. For example:
+I believe it is important  when designing embedded systems because usually designers/hobbyists (including myself) take for granted many details regarding the functional sections of the Arduino. For example:
 
 a. Reset circuitry, you can test your own RST design
 b. ICSP connections, to make sure that the program can be loaded in case you don't plan to use the USB onboard (in that case you could use the ATMEGA328P for which I will upload another breakout board design :wink:)
-c. clock signal generators, allowing you to test the best crystal and capacitors quality or even test your resonator of choice,
+c. clock signal generators, allowing you to test the best crystal and capacitor quality or even test your resonator of choice,
 d. USB connections,
-e. Approriate power supplies for the MCU
+e. Appropriate power supplies for the MCU
 f. ....many other advantages
 
-In addition, with this board you will have access to all of those pins that are not routed on those micro boards like the Pro Micro. For example: in D17 is assigned only to the Rx LED and perhaps your project needs to use CS from the SPI Port being that D17 also corresponds to that pin.
+In addition, with this board, you will have access to all of those pins that are not routed on those micro boards like the Pro Micro. For example: in D17 is assigned only to the Rx LED and perhaps your project needs to use CS from the SPI Port being that D17 also corresponds to that pin.
 
 The pinout is based on the schematic symbol from [KiCAD](http://kicad.org/), as follows :eyes:
 
@@ -37,6 +37,6 @@ dzalf :sunglasses:
 
 **#TODO**
 
-1. Upload examples of the applicability of this boards (pictures)
+1. Upload examples of the applicability of these boards (pictures)
 
-<a href="https://www.tindie.com/stores/IvoryCircuits/?ref=offsite_badges&utm_source=sellers_IvoryCircuits&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+UPDATE: Feb 2024. Unfortunately, the Tindie shop had to be closed. Thank you to all of you who purchased something from it. We appreciate your support.
