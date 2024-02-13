@@ -39,4 +39,9 @@ dzalf :sunglasses:
 
 1. Upload examples of the applicability of these boards (pictures)
 
-UPDATE: Feb 2024. Unfortunately, the Tindie shop had to be closed. Thank you to all of you who purchased something from it. We appreciate your support.
+## UPDATE: Feb 2024. 
+
+Unfortunately, the Tindie shop had to be closed. 
+Thank you to all of you who purchased something from it. 
+We appreciate your support.
+P&D
